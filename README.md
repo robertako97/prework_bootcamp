@@ -5,22 +5,34 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+To grow my professional skills in data analysis and have the necessary tool to develop my professional path into software engineering.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+To measure my actual abilities and have a good refresher bedore the course to be able to manage new obstacles with a learn-focused ideology.
 - What problem does it solve?
+The overall link between HTML/CSS/JS and the interaction they have in the software world, or the Big Data.
 - What did you learn?
+I learned how GitHub is useful for teamwork, to be able to track changes and to cooperate within peers; how HTML and CSS are important but are the frameworks for the JS code wich permits the "normal" interaction between human - machine.
 
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
+N/A -> Page submitted through GitHub Pages Setting with repository link path.
 - [Usage](#usage)
+For bootcamp intro.
 - [Credits](#credits)
+ITESM Bootcamp Prework Guide.
 - [License](#license)
+MIT License.
 
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+N/A
+
+See installation notes.
 
 ## Usage
 
